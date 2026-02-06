@@ -1,4 +1,4 @@
-<h1>JShare Folder</h1>
+<h1>Share Folder</h1>
 
 <h2>Description</h2>
 Step by step demonstration how to have a shared folder on a domain network.
